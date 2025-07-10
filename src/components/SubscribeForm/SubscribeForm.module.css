@@ -1,0 +1,73 @@
+.subscribeSection {
+  position: relative;
+  margin: 200px 0 200px 0;
+  background-color: #000;
+  border-radius: 30px;
+  height: 387px;
+}
+
+.effect3 {
+  position: absolute;
+
+  top: 330px;
+  left: -40px;
+}
+
+.subscribeWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 50px;
+}
+
+.subcribeTitle {
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 79.2px;
+
+  margin: 5px 0 45px 0;
+
+  width: 431px;
+  letter-spacing: 6px;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin: 0;
+  color: #118da8;
+}
+
+.subscribeInput {
+  display: flex;
+
+  width: 100%;
+  padding: 15px 20px;
+  font-size: 24px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+
+  width: 522px;
+  height: 52px;
+  background-color: #191919;
+  color: #fff;
+
+  border: none;
+  outline: none;
+}
+
+.subscribeInput::placeholder {
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+.subscribeInput:focus {
+  font-size: 24px;
+  color: white;
+}
+
+.subscribeFomWrapper {
+  margin-bottom: 35px;
+}
