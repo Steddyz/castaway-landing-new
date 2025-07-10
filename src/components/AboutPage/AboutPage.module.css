@@ -1,0 +1,58 @@
+.aboutSection {
+  margin-top: 250px;
+}
+
+.aboutWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.aboutTitle {
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 79.2px;
+
+  margin: 5px 0 35px 0;
+
+  letter-spacing: 6px;
+}
+
+.aboutDesc {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+
+  opacity: 70%;
+  color: #fff;
+
+  width: 556px;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #118da8;
+}
+
+.arrowWrapper {
+  display: flex;
+  background: #118da8;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+  width: 112px;
+  height: 112px;
+  border-radius: 100%;
+}
+
+.arrowImage {
+  height: 40px;
+}
+
+.aboutImage {
+  border-radius: 8px;
+}
