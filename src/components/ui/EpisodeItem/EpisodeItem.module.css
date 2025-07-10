@@ -1,0 +1,58 @@
+.episodeItem {
+  background-color: #000;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.epicodeImageWrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 50px;
+}
+
+.episodeImage {
+  width: 389px;
+  height: 465px;
+}
+
+.episodeOptionalWrapper {
+  display: inline-flex;
+  padding: 5px 15px;
+  background-color: #191919;
+
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0%;
+  border-radius: 8px;
+}
+
+.episodeTitleWrapper {
+  padding: 20px 0;
+}
+
+.episodeTitleId {
+  font-size: 17px;
+  line-height: 27px;
+  color: #118da8;
+}
+
+.episodeTitle {
+  font-size: 64px;
+  margin-top: 10px;
+  width: 701px;
+  line-height: 70.4px;
+
+  letter-spacing: 6px;
+}
+
+.episodeDesc {
+  font-size: 22px;
+  line-height: 33px;
+  width: 757px;
+  letter-spacing: 0%;
+  color: #fff;
+  opacity: 70%;
+  margin-bottom: 50px;
+}
