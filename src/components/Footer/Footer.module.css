@@ -1,0 +1,52 @@
+.footer {
+  margin: 200px 0px 50px 0px;
+}
+
+.footerWrapper {
+  display: flex;
+  padding: 0 20px;
+}
+
+.footerColumn {
+  flex: 1;
+  max-width: 500px;
+}
+
+.logo {
+  width: 230px;
+}
+
+.logoWrapper {
+  display: flex;
+  gap: 22;
+}
+
+.footerSocial {
+  padding-right: 10px;
+}
+
+.menuList {
+  width: 174px;
+}
+
+.menuItem {
+  padding-bottom: 15px;
+  cursor: pointer;
+
+  transition: color 0.2s ease-in;
+}
+
+.menuItem:hover {
+  color: #118da8;
+}
+
+.logoWrapper {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.listenOn {
+  display: flex;
+  margin-top: 20px;
+  gap: 22px;
+}
