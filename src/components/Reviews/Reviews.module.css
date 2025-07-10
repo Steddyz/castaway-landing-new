@@ -1,0 +1,9 @@
+.reviewSection {
+  margin-bottom: 100px;
+}
+
+.reviewContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
