@@ -1,0 +1,26 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  cursor: pointer;
+  height: 33px;
+}
+
+.navLinks ul {
+  display: flex;
+  gap: 40px;
+  padding: 20px 0;
+  font-size: 17px;
+  line-height: 27px;
+}
+
+.navLinks a {
+  transition: color 0.2s ease-in;
+}
+
+.navLinks a:hover {
+  color: #118da8;
+}
